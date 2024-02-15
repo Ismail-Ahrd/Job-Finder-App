@@ -49,4 +49,4 @@ Replace the placeholder values with your actual credentials. You can obtain thes
 npm start
 ```
 
-To view the project the application scan the QR code using Expo Go or open [http://localhost:19000](http://localhost:19000) in your browser
+To view the project scan the QR code using Expo Go or open [http://localhost:19000](http://localhost:19000) in your browser
